@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+}
+
+ul{
+    height:100%;
+    
+}
+
+li{
+    padding:2em;
+    font-family:monospace;
+}
+
+a:visited{
+    text-decoration: none;
+    color:black;
+}
+
+a:link{
+    text-decoration: none;
+    color:black;
+}
